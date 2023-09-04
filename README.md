@@ -1,1 +1,1 @@
-Airbnb clone build with Solana
+Airbnb clone build with Solana & Next.js
